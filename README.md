@@ -1,5 +1,7 @@
 # 📝 Desafio Lógica Super Trunfo
 
+Bem-vindo ao repositório de exercícios em C! Este repositório contém uma coleção de exercícios resolvidos em C que foram desenvolvidos para praticar conceitos de programação.
+
 # 👨‍💻 NIVEL BASICO
 
 📋 Como funciona o código
